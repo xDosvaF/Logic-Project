@@ -29,4 +29,4 @@ while activo:
     
     else:
         print("No existe esa acción")
-        print("XD")
+        print("kXD")
